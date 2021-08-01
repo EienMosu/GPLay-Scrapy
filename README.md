@@ -21,6 +21,7 @@
 ## Install 
 
 **Scrapy**
+
 The quick way:
 ```
 pip install scrapy
@@ -29,6 +30,7 @@ See the install section in the documentation at https://docs.scrapy.org/en/lates
 
 
 **jsonschema**
+
 The quick way:
 ```
 pip install jsonschema
