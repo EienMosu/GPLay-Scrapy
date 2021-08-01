@@ -6,7 +6,7 @@
 * **Python 3.9.6**,
 * **Scrapy** - For crawl data
 * **jsonschema** - For validate to data before writing database
-* **Sqlite3** - For write data to database
+* **Sqlite3** - For write collected data to database
 
 
 ## How to use;
