@@ -2,11 +2,11 @@
 
 # My First Scrapy Project
 
-## Frameworks-Libaries;
+## Techs;
 * **Python 3.9.6**,
 * **Scrapy** - For crawl data
-* **jsonschema** - For validate to data before writing database
-* **Sqlite3** - For write collected data to database
+* **jsonschema** - To validate the data before writing the database
+* **Sqlite3** - To write collected data to the database
 
 
 ## How to use;
@@ -15,7 +15,7 @@
 * Type "scrapy crawl gplay" and press Enter,
 
 
-**PS:** "requirements.txt" have to install every package i use in project. If its not please dont forget to check and install missing packages.
+**PS:** "requirements.txt" have to install every package I used in the project. If it's not installed, please don't forget to check and install all missing packages.
 
 
 ## Install 
